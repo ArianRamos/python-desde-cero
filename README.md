@@ -1,2 +1,2 @@
-# python-desde-cero
+# Python desde cero
 Ejercicios de Python desde cero de OpenWebinars
